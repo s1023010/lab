@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-	printf("s1023010")
+	printf("I am 1023010")
 	return 0;
 }
